@@ -19,12 +19,12 @@ var options = {
                               // (v1.4 or higer) - see below for details
 };
 
-var evotoken = 'eyJraWQiOiIxNjcwOTQwNTA0MTM4IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJjdXIiOiJFVVIiLCJndHAiOiJibGFja2phY2tjbGFzc2ljIiwicGduIjoiYmxhY2tqYWNrY2xhc3NpY19mMF9nMF9oMF9pMF9qMF9ub3RfbW9iaWxlX3N3IiwianVyIjoiQ1ciLCJoaWVyYXJjaHkiOiJbYmFieWxvbnJidDAwMDAwMV0iLCJtaWQiO';
-var evotoken1 = 'iJibGFja2phY2tjbGFzc2ljX2YwX2cwX2gwX2kwX2owIiwicGlkIjoic2N6aTNza2s3eWNyeTdmcSIsImV4cCI6MTcyMTI0MTc1NSwidGlkIjoiYmxhY2tqYWNrMGgwaTBqMCIsImNpZCI6ImJhYnlsb25yYnQwMDAwMDEiLCJzaWQiOiJzY3ppM3Nrazd5Y3J5N2Zxc2N6aTNzbWVndXJpNXhjbGY5MzgwMTI3In0.O2TgZS0FgAvNf2q50lwnH';
-var evotoken2 = 'OViIDyU5t4u7LyHIZtDQk3bfw_CWTIfg2ZUki_9_amGJMP4d8vLagZZIwiSiTd7Hg';
-var ses = 'sczi3skk7ycry7fqsczi3smeguri5xclf9380127';
-var curr = 'EUR';
-var amo = 16;
+var evotoken = 'eyJraWQiOiIxNjcwOTQwNTA0MTM4IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJjdXIiOiJCUkwiLCJndHAiOiJibGFja2phY2tjbGFzc2ljIiwicGduIjoiYmxhY2tqYWNrY2xhc3NpY19mMF9nMF9oMF9pMF9qMF9ub3RfbW9iaWxlX3N3IiwianVyIjoiQ1ciLCJoaWVyYXJjaHkiOiJbYmFieWxvbnJidDAwMDAwMV0iLCJtaWQiO';
+var evotoken1 = 'iJibGFja2phY2tjbGFzc2ljX2YwX2cwX2gwX2kwX2owIiwicGlkIjoic2N6amRkc2Y3eWNyeTd5ciIsImV4cCI6MTcyMTI0MjAwMiwidGlkIjoiYmxhY2tqYWNrMGgwaTBqMCIsImNpZCI6ImJhYnlsb25yYnQwMDAwMDEiLCJzaWQiOiJzY3pqZGRzZjd5Y3J5N3lyc2N6amRkdDNkZXQyemF3dmZkMTMzZDhkIn0.FvbAvZTdDQRKZrV8GaNs3';
+var evotoken2 = 'p3KxE9rD5R_sLQXZoamiFliu3PmsZL-smG5jLyR3fIo1Uo3TLwKDMR9hkqXb_UFMA';
+var ses = 'sczjddsf7ycry7yrsczjddt3det2zawvfd133d8d';
+var curr = 'BRL';
+var amo = 60;
 var splitt = 0;
 var provider = "babylonrbt";
 deal();
